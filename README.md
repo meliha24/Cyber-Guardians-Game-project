@@ -70,7 +70,7 @@ https://drive.google.com/file/d/1C941035zzJl82iyTNrVKfouRZfwLQF9n/view?usp=shari
 
 <h1>Developed by:</h1>
 Bojana Bocevska<br>
-Meliha Jusufovic<br>
+Meliha Jusufovikj<br>
 Jasna Jovanova
 
 <h1>References</h1>
